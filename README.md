@@ -1,0 +1,1 @@
+# Auto-click-20-seconds
